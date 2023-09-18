@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc47e69-2f4e-4c0d-ac65-66563a4ce1d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task1/DIR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task1/README_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task1/RR.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir_flutter_03/RDM.md" beforeDir="false" afterPath="$PROJECT_DIR$/dir_flutter_03/RDM.md" afterDir="false" />
+    <list default="true" id="bcc47e69-2f4e-4c0d-ac65-66563a4ce1d9" name="Changes" comment="LLLLL">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surf-flutter-courses-template" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,28 @@
       <option name="presentableId" value="Default" />
       <updated>1694923591024</updated>
     </task>
+    <task id="LOCAL-00001" summary="LOl LOL">
+      <created>1695055523301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695055523301</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LLLLL">
+      <created>1695055779766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695055779766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LLLLL">
+      <created>1695055789207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695055789207</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +75,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LOl LOL" />
+    <MESSAGE value="LLLLL" />
+    <option name="LAST_COMMIT_MESSAGE" value="LLLLL" />
   </component>
 </project>
