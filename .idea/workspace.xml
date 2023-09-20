@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc47e69-2f4e-4c0d-ac65-66563a4ce1d9" name="Changes" comment="LLLLL">
+    <list default="true" id="bcc47e69-2f4e-4c0d-ac65-66563a4ce1d9" name="Changes" comment="Alisa's  descriptions... something...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surf-flutter-courses-template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s_f_task_0101" beforeDir="false" afterPath="$PROJECT_DIR$/s_f_task_0101" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695055789207</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="комит в README.md  в склонированном проекте &quot;surf-flutter-courses-template.git&quot;">
+      <created>1695060300982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695060300982</updated>
+    </task>
+    <task id="LOCAL-00005" summary="комит в README.md  в склонированном проекте &quot;surf-flutter-courses-template.git&quot;">
+      <created>1695060518729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695060518729</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +93,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LOl LOL" />
     <MESSAGE value="LLLLL" />
-    <option name="LAST_COMMIT_MESSAGE" value="LLLLL" />
+    <MESSAGE value="комит в README.md  в склонированном проекте &quot;surf-flutter-courses-template.git&quot;" />
+    <MESSAGE value="комит в README.md  в склонированном проекте : &quot;surf-flutter-courses-template.git&quot;" />
+    <MESSAGE value="комит в README в склонированном пр: &quot;surf-flutter-courses-template.git&quot;" />
+    <MESSAGE value="комит в README файле  в склонированном проекте: &quot;surf-flutter-courses-template.git&quot;" />
+    <MESSAGE value="Alisa's  descriptions... something..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Alisa's  descriptions... something..." />
   </component>
 </project>
